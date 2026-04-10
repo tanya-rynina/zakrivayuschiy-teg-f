@@ -1,13 +1,3 @@
-/* 
-  Анимации для иконки Like.
-  Ключевые кадры не зависят от имён классов.
-  Обязательные классы для работы скрипта остались прежними:
-  ✦ like-icon
-  ✦ card__like-button
-  ✦ card__icon-button
-  ✦ is-liked
-  ✦ button__text
-*/
 
 @keyframes scale-up {
   from {

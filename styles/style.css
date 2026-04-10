@@ -1,11 +1,3 @@
-/* Основные стили страницы.
-   Классы, участвующие в работе JavaScript, оставлены без изменений:
-   ✦ like-icon
-   ✦ card__like-button
-   ✦ card__icon-button
-   ✦ is-liked
-   ✦ button__text
-*/
 
 .app {
   color: var(--main-text-color, #000);
